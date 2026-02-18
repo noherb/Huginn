@@ -10,7 +10,7 @@ from deepface import DeepFace
 class App:
     def __init__(self, root):
         self.root = root
-        self.root.title("Huginn AI")
+        self.root.title("Huginn")
         self.root.geometry("1080x720")
         self.root.resizable(False, False)
 
