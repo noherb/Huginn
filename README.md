@@ -1,7 +1,5 @@
 # Huginn - Système de Reconnaissance Faciale
 
-### Créé par Noah Herbelin--Alves
-
 ## Description
 
 **Huginn** est une application de reconnaissance faciale développée en Python utilisant les bibliothèques **OpenCV**, **face_recognition**, **DeepFace**, et **customtkinter** pour offrir une interface utilisateur intuitive. Le programme permet de détecter des visages en temps réel à partir d'un flux vidéo, d'analyser des traits spécifiques (comme l'âge, le genre, l'émotion et l'ethnie), et de comparer les visages détectés avec une base de données d'images de référence.
